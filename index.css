@@ -1,0 +1,11 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	margin-top: 400px;
+	text-align: center;
+	color: coral;
+}
+
+#timercounter {
+	font-size: 100px;
+	font-weight: 500;
+}
